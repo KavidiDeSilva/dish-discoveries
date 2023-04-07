@@ -7,7 +7,9 @@ This is a recipe app built with React that uses the Spoonacular API to search an
 To get started, clone this repository and install the dependencies:
 
 `git clone https://github.com/your-username/recipe-app.git`
+
 `cd recipe-app`
+
 `npm install
 `
 
