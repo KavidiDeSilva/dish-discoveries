@@ -61,6 +61,5 @@ If you'd like to contribute to this project, please open an issue or submit a pu
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
->>>>>>> 3e7b86e1c03532a961f4fc75999c53061620a2e9
-Credits
-I followed [React Crash Course - Build A Full Recipe App Tutorial] (https://www.youtube.com/watch?v=xc4uOzlndAk) on Youtube to build this app.
+## Credits
+I followed [React Crash Course - Build A Full Recipe App Tutorial](https://www.youtube.com/watch?v=xc4uOzlndAk) on Youtube to build this app.
