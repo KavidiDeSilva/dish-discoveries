@@ -4,6 +4,9 @@ This is a recipe app built with React that uses the Spoonacular API to search an
 
 ![image](https://user-images.githubusercontent.com/40288071/230533242-84e60773-d0df-4f37-8084-89ad24113ccd.png)
 
+![image](https://user-images.githubusercontent.com/40288071/230533384-84efbe3e-cd03-4735-bb77-b378a32d1628.png)
+
+
 
 ## Getting Started
 
