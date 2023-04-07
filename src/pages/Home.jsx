@@ -14,6 +14,7 @@ function Home() {
     >
         <Veggie />
         <Popular />
+        
     </motion.div>
   )
 }
