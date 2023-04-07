@@ -2,6 +2,9 @@
 
 This is a recipe app built with React that uses the Spoonacular API to search and display recipes.
 
+![image](https://user-images.githubusercontent.com/40288071/230533242-84e60773-d0df-4f37-8084-89ad24113ccd.png)
+
+
 ## Getting Started
 
 To get started, clone this repository and install the dependencies:
