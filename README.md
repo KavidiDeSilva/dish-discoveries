@@ -11,15 +11,19 @@ cd recipe-app
 npm install
 `
 
+
 Create a file called `.env` in the root directory and add your Spoonacular API key like this:
 
 `REACT_APP_SPOONACULAR_API_KEY=your-api-key
 `
 
 
+
 To run the app in development mode, use the following command:
 `npm start
 `
+
+
 
 This will start the app on `http://localhost:3000`.
 
