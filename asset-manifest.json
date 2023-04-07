@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dish-discoveries/static/css/main.b77d1900.css",
+    "main.js": "/dish-discoveries/static/js/main.6b18adfe.js",
+    "index.html": "/dish-discoveries/index.html",
+    "main.b77d1900.css.map": "/dish-discoveries/static/css/main.b77d1900.css.map",
+    "main.6b18adfe.js.map": "/dish-discoveries/static/js/main.6b18adfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b77d1900.css",
+    "static/js/main.6b18adfe.js"
+  ]
+}
