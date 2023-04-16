@@ -39,11 +39,10 @@ const SLink = styled(NavLink)`
   justify-content: center;
   align-items: center;
   border-radius: 50%; 
-  margin-right: 2rem;
   text-decoration:none;
   background: linear-gradient(35deg, #494949, #313131);
-  width:6rem;
-  height: 6rem; 
+  width:100px;
+  height: 100px; 
   cursor:pointer;
   transform: scale(0.8);
 
@@ -53,18 +52,16 @@ const SLink = styled(NavLink)`
   }
   svg{
     color: #FFF;
-    font-size: 1.5rem;
   }
   &.active{
     background: linear-gradient(to right, #f27121, #e94057);
-
-    svg{
-        color: white;
-    }
+  }
+  @media screen and (max-width: 480px) {
     h4{
-        color:white;
+        display:none;
     }
   }
+
 `;
 
 

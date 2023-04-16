@@ -5,6 +5,7 @@ import Search from "./components/Search";
 import styled from 'styled-components';
 import {GiKitchenKnives} from "react-icons/gi";
 
+
 function App() {
   return (
     <div className="App">
@@ -12,7 +13,7 @@ function App() {
      <BrowserRouter>
      <Nav>
       <GiKitchenKnives />
-       <Logo to={"/"}> Dish Discoveries</Logo>
+       <Logo to={"/dish-discoveries"}> Dish Discoveries</Logo>
      </Nav>
       <Search/>
       <Category/>
